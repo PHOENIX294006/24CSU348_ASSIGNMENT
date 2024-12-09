@@ -21,7 +21,7 @@ int power(int numbo, int exp)
     return prod;
 }
 
-int isArms(int numo)
+int isArms(int numo) 
 {
     int powo = order(numo);
     int num1 = numo, sum = 0;
